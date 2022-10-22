@@ -27,11 +27,6 @@ ul li a {
     
 }
 
-/* .overly {
-    background: linear-gradient(to bottom, rgba(77, 77, 255, 0.3) 0%, rgba(77, 77, 255, 0.3) 100%);
-    z-index: 1;
-} */
-
 nav {
     z-index: 2;
 }
